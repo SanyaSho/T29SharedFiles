@@ -1,0 +1,58 @@
+{
+"__comment": "Designed by Hunajameloni with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
+"textures": {
+    "particle": "item/bow_standby",
+    "texture": "item/bow_standby"
+},
+"elements": [ 
+{
+    "from": [ 1.75, 7.75, 6.25 ],
+    "to": [ 13.75, 8.25, 6.75 ],
+    "faces": {
+        "down":  { "uv": [ 15, 1.5, 15.5, 3 ], "texture": "#texture", "tintindex": 0 },
+        "up":    { "uv": [ 15, 0, 15.5, 1.5 ], "texture": "#texture", "tintindex": 0 },
+        "north": { "uv": [ 15, 0, 15.5, 3 ], "texture": "#texture", "tintindex": 0 },
+        "south": { "uv": [ 15, 0, 15.5, 3 ], "texture": "#texture", "tintindex": 0 },
+        "west":  { "uv": [ 15, 1.25, 15.5, 1.75 ], "texture": "#texture", "tintindex": 0 },
+        "east":  { "uv": [ 15, 1.25, 15.5, 1.75 ], "texture": "#texture", "tintindex": 0 }
+    }
+}
+],
+"display": {
+    "thirdperson_righthand": {
+        "rotation": [ -94, -94, -10 ],
+        "translation": [ -2.65, 3.4, 2.27 ],
+        "scale": [ 1.17, 1.35, 1.23 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ -94, -94, -10 ],
+        "translation": [ -2.46, 3.97, 2.27 ],
+        "scale": [ 1.17, 1.35, 1.23 ]
+    },
+    "ground": {
+        "rotation": [ 31, 72, -58 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "fixed": {
+        "rotation": [ 0, 0, -45 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 0, -11, -74 ],
+        "translation": [ -2.08, 2.27, 2.65 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 0, -11, -74 ],
+        "translation": [ -2.08, 2.27, 2.65 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "gui": {
+        "rotation": [ -77, 52, 11 ],
+        "translation": [ 1.7, 1.13, 0 ],
+        "scale": [ 1, 1, 1 ]
+    }
+}
+}

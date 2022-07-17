@@ -1,2 +1,2 @@
-ff69f6c8526b116e1368351d2536051e134dbb1e  resourcepack.zip
+ecb1fd5b84f0e14b4228b283e2e0046574b52412  resourcepack.zip
 2cc10e0ab4f4bff8bb0f37ac9ba5ea6f0fb52110  resourcepack_music.zip
